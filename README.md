@@ -1,0 +1,1 @@
+# This is my Amazon Clone.I made landing page of amazon.
